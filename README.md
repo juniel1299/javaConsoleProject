@@ -61,6 +61,11 @@
 <div> <a href="https://github.com/juniel1299/javaConsoleProject/tree/main/SeoulMetro_1%EC%A1%B0_%EC%BD%98%EC%86%94%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/11.%20%EC%9A%94%EC%95%BD%EB%B3%B8">11. 요약본 </a></div>
 
 
+## 시연 영상
+
+
+https://github.com/juniel1299/javaConsoleProject/assets/62318700/dc923467-3f30-41c5-81ca-1cafbe60a6b0
+
 
 
   
