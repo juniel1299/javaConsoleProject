@@ -32,18 +32,21 @@
 <br/>
 
 ## 📂 Collaborative Software <br/>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">   
-<img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">   
-<img src="https://img.shields.io/badge/googledocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"> 
-<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">  
+<div>
+  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+</div>
+
 
   <hr/>
 
 
   
 ## :telescope: IDE <br/>
-  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">   <br/> 
+ ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
   <br/>
 
 
@@ -70,11 +73,10 @@ https://github.com/juniel1299/javaConsoleProject/assets/62318700/dc923467-3f30-4
 
   
 ## 😀  해당 프로젝트 참가 멤버
-
-|<img src="https://avatars.githubusercontent.com/u/155609506?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/64453121?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/152785122?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/157680931?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/156043182?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/62318700?v=4" width="150" height="150"/>|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|[@sol2ee](https://github.com/sol2ee)|[@Kwak-98](https://github.com/Kwak-98)|Bo_Ryong<br/>[@kwonboryong](https://github.com/kwonboryong)|[@Kijun0708](https://github.com/Kijun0708)|SXNGJUNHX<br/>[@SXNGJUNHX](https://github.com/SXNGJUNHX)|juniel1299<br/>[@juniel1299](https://github.com/juniel1299)|
 |김은솔|곽지현|권보령|박기준|송준호|장원준|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img src="https://avatars.githubusercontent.com/u/155609506?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/64453121?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/152785122?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/157680931?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/156043182?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/62318700?v=4" width="150" height="150"/>|
+|[@sol2ee](https://github.com/sol2ee)|[@Kwak-98](https://github.com/Kwak-98)|[@kwonboryong](https://github.com/kwonboryong)|[@Kijun0708](https://github.com/Kijun0708)|[@SXNGJUNHX](https://github.com/SXNGJUNHX)|[@juniel1299](https://github.com/juniel1299)|
 |이용객 통계|PM|회원가|길 찾기|마이 페이지|화면 출력|
 |매출 통계|데이터 로드|로그인|열차 배치|분실물 관리|민원 관리|
 |정기권|데이터 가공|로그아웃|혼잡도 통계|-|스케줄 관리|
